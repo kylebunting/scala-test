@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="com.ahcusa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_ahcusa_jar</output-path>
+    <root id="archive" name="com.ahcusa.jar">
+      <element id="module-output" name="com.ahcusa" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

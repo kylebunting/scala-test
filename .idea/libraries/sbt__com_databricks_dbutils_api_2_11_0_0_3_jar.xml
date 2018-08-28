@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.databricks:dbutils-api_2.11:0.0.3:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.databricks/dbutils-api_2.11/jars/dbutils-api_2.11-0.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
