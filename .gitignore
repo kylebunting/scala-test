@@ -20,10 +20,7 @@ project/plugins/project/
 .lib/
 
 #####=== macOS ===#####
-# General
 .DS_Store
-.AppleDouble
-.LSOverride
 
 # Icon must end with two \r
 Icon
@@ -47,6 +44,13 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#####=== IntelliJ ===#####
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
 
 #####=== Eclipse ===#####
 
@@ -132,12 +136,6 @@ $RECYCLE.BIN/
 *.lnk
 
 #####=== Java ===#####
-
-# Compiled class file
-*.class
-
-# Log file
-*.log
 
 # BlueJ files
 *.ctxt
